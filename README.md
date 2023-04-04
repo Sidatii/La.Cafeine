@@ -42,10 +42,8 @@ Home Page:
 
 Shop Page:
 
-![Shop Page Screenshot](https://drive.google.com/file/d/1XWN_HW2YYe_9ZtOBr8VNUwVVS7mEGQUH/view?usp=sharing)
-<img src="https://drive.google.com/file/d/1XWN_HW2YYe_9ZtOBr8VNUwVVS7mEGQUH/view?usp=sharing" alt="hhhhhhhhh" title="hhhhhh">
+<img src='./shop.cafeine.png'>
 
 Account Page:
 
-![Account Page Screenshot](https://drive.google.com/file/d/1ZQ4U4bTA-dgljs4xUIE1I0jnkd9UKRs5/view?usp=sharing)
-<img src="/path/to/img.jpg](https://drive.google.com/file/d/1ZQ4U4bTA-dgljs4xUIE1I0jnkd9UKRs5/view?usp=sharing)" alt="Alt text" title="Optional title">
+<img src='./account.cafeine.png'>
