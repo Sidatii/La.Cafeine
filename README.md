@@ -38,7 +38,7 @@ Screenshots
 
 Home Page:
 
-<img src='https://drive.google.com/file/d/1fpHnus3St18LOfUwfkEpILfDyqv6yZdy/view?usp=sharing' style='width:50%'>
+<img src='https://drive.google.com/file/d/1fpHnus3St18LOfUwfkEpILfDyqv6yZdy/view?usp=sharing' style='width:100px'>
 
 Shop Page:
 
