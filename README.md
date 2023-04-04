@@ -40,6 +40,7 @@ Home Page:
 
 ![Home Page Screenshot](https://drive.google.com/file/d/1fpHnus3St18LOfUwfkEpILfDyqv6yZdy/view?usp=sharing)
 <img src="/path/to/img.jpg](https://drive.google.com/file/d/1fpHnus3St18LOfUwfkEpILfDyqv6yZdy/view?usp=sharing" alt="Alt text" title="Optional title">
+![Alt text](https://drive.google.com/file/d/1fpHnus3St18LOfUwfkEpILfDyqv6yZdy/view?usp=sharing "Optional title")
 
 Shop Page:
 
