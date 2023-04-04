@@ -38,7 +38,7 @@ Screenshots
 
 Home Page:
 
-<img src='https:./home.cafeine.png' style='width:100px'>
+<img src='./home.cafeine.png'>
 
 Shop Page:
 
