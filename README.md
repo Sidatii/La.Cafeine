@@ -43,7 +43,7 @@ Home Page:
 Shop Page:
 
 ![Shop Page Screenshot](https://drive.google.com/file/d/1XWN_HW2YYe_9ZtOBr8VNUwVVS7mEGQUH/view?usp=sharing)
-<img src="https://drive.google.com/file/d/1XWN_HW2YYe_9ZtOBr8VNUwVVS7mEGQUH/view?usp=sharing" alt="Alt text" title="Optional title">
+<img src="https://drive.google.com/file/d/1XWN_HW2YYe_9ZtOBr8VNUwVVS7mEGQUH/view?usp=sharing" alt="hhhhhhhhh" title="hhhhhh">
 
 Account Page:
 
