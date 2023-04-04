@@ -38,8 +38,7 @@ Screenshots
 
 Home Page:
 
-![My Remote Image](https://drive.google.com/file/d/1fpHnus3St18LOfUwfkEpILfDyqv6yZdy/view?usp=sharing)
-<img src="(https://drive.google.com/file/d/1fpHnus3St18LOfUwfkEpILfDyqv6yZdy/view?usp=sharing" width="50%" height="50%">
+<img src='https://drive.google.com/file/d/1fpHnus3St18LOfUwfkEpILfDyqv6yZdy/view?usp=sharing' style='width:50%'>
 
 Shop Page:
 
